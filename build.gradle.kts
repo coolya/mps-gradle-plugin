@@ -16,7 +16,7 @@ plugins {
     `java-gradle-plugin`
     `kotlin-dsl`
     `maven-publish`
-    kotlin("jvm") version "1.3.11"
+    kotlin("jvm") version "1.5.0"
 }
 
 val versionMajor = 1
